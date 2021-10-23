@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\baocao\\bitis\\bitis\\bitisdemo\\bitisdemo.csproj": {}
+    "D:\\GitHub\\Baocao_Bitis\\bitis\\bitis\\bitisdemo\\bitisdemo.csproj": {}
   },
   "projects": {
-    "D:\\baocao\\bitis\\bitis\\bitis.mode\\bitis.mode.csproj": {
+    "D:\\GitHub\\Baocao_Bitis\\bitis\\bitis\\bitis.mode\\bitis.mode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\baocao\\bitis\\bitis\\bitis.mode\\bitis.mode.csproj",
+        "projectUniqueName": "D:\\GitHub\\Baocao_Bitis\\bitis\\bitis\\bitis.mode\\bitis.mode.csproj",
         "projectName": "bitis.mode",
-        "projectPath": "D:\\baocao\\bitis\\bitis\\bitis.mode\\bitis.mode.csproj",
+        "projectPath": "D:\\GitHub\\Baocao_Bitis\\bitis\\bitis\\bitis.mode\\bitis.mode.csproj",
         "packagesPath": "C:\\Users\\DTPHONG\\.nuget\\packages\\",
-        "outputPath": "D:\\baocao\\bitis\\bitis\\bitis.mode\\obj\\",
+        "outputPath": "D:\\GitHub\\Baocao_Bitis\\bitis\\bitis\\bitis.mode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DTPHONG\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "D:\\baocao\\bitis\\bitis\\bitisdemo\\bitisdemo.csproj": {
+    "D:\\GitHub\\Baocao_Bitis\\bitis\\bitis\\bitisdemo\\bitisdemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\baocao\\bitis\\bitis\\bitisdemo\\bitisdemo.csproj",
+        "projectUniqueName": "D:\\GitHub\\Baocao_Bitis\\bitis\\bitis\\bitisdemo\\bitisdemo.csproj",
         "projectName": "bitisdemo",
-        "projectPath": "D:\\baocao\\bitis\\bitis\\bitisdemo\\bitisdemo.csproj",
+        "projectPath": "D:\\GitHub\\Baocao_Bitis\\bitis\\bitis\\bitisdemo\\bitisdemo.csproj",
         "packagesPath": "C:\\Users\\DTPHONG\\.nuget\\packages\\",
-        "outputPath": "D:\\baocao\\bitis\\bitis\\bitisdemo\\obj\\",
+        "outputPath": "D:\\GitHub\\Baocao_Bitis\\bitis\\bitis\\bitisdemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DTPHONG\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\baocao\\bitis\\bitis\\bitis.mode\\bitis.mode.csproj": {
-                "projectPath": "D:\\baocao\\bitis\\bitis\\bitis.mode\\bitis.mode.csproj"
+              "D:\\GitHub\\Baocao_Bitis\\bitis\\bitis\\bitis.mode\\bitis.mode.csproj": {
+                "projectPath": "D:\\GitHub\\Baocao_Bitis\\bitis\\bitis\\bitis.mode\\bitis.mode.csproj"
               }
             }
           }

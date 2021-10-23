@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\baocao\\bitis\\bitis\\bitis.mode\\bitis.mode.csproj",
+      "projectUniqueName": "D:\\GitHub\\Baocao_Bitis\\bitis\\bitis\\bitis.mode\\bitis.mode.csproj",
       "projectName": "bitis.mode",
-      "projectPath": "D:\\baocao\\bitis\\bitis\\bitis.mode\\bitis.mode.csproj",
+      "projectPath": "D:\\GitHub\\Baocao_Bitis\\bitis\\bitis\\bitis.mode\\bitis.mode.csproj",
       "packagesPath": "C:\\Users\\DTPHONG\\.nuget\\packages\\",
-      "outputPath": "D:\\baocao\\bitis\\bitis\\bitis.mode\\obj\\",
+      "outputPath": "D:\\GitHub\\Baocao_Bitis\\bitis\\bitis\\bitis.mode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DTPHONG\\AppData\\Roaming\\NuGet\\NuGet.Config",
