@@ -1,9 +1,11 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace bitis.mode
 {
     public class Product
     {
+        [Key]
         public int IdSp { get; set; }
         public string MaSp { get; set; }
         public string TenSp { get; set; }

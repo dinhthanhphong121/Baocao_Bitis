@@ -10,3 +10,15 @@ D:\baocao\bitis\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.csproj.CoreCompileI
 D:\baocao\bitis\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.dll
 D:\baocao\bitis\bitis\bitis.mode\obj\Debug\net5.0\ref\bitis.mode.dll
 D:\baocao\bitis\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.pdb
+D:\GitHub\Baocao_Bitis\bitis\bitis\bitis.mode\bin\Debug\net5.0\bitis.mode.deps.json
+D:\GitHub\Baocao_Bitis\bitis\bitis\bitis.mode\bin\Debug\net5.0\bitis.mode.dll
+D:\GitHub\Baocao_Bitis\bitis\bitis\bitis.mode\bin\Debug\net5.0\ref\bitis.mode.dll
+D:\GitHub\Baocao_Bitis\bitis\bitis\bitis.mode\bin\Debug\net5.0\bitis.mode.pdb
+D:\GitHub\Baocao_Bitis\bitis\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.csproj.AssemblyReference.cache
+D:\GitHub\Baocao_Bitis\bitis\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Baocao_Bitis\bitis\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.AssemblyInfoInputs.cache
+D:\GitHub\Baocao_Bitis\bitis\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.AssemblyInfo.cs
+D:\GitHub\Baocao_Bitis\bitis\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.csproj.CoreCompileInputs.cache
+D:\GitHub\Baocao_Bitis\bitis\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.dll
+D:\GitHub\Baocao_Bitis\bitis\bitis\bitis.mode\obj\Debug\net5.0\ref\bitis.mode.dll
+D:\GitHub\Baocao_Bitis\bitis\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.pdb
